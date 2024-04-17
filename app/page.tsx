@@ -7,7 +7,7 @@ import EmptyState from "@/app/components/EmptyState";
 import getListings, { 
   IListingsParams
 } from "@/app/actions/getListing";
-import getCurrentUser from "@/app/actions/getCurrrentUser";
+import getCurrentUser from "@/app/actions/getCurrentUser";
 import ClientOnly from "./components/ClientOnly";
 
 interface HomeProps {
