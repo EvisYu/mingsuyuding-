@@ -105,7 +105,7 @@ const LoginModal = () => {
         "
       >
         <div className="justify-center flex flex-row items-center gap-2">
-          <div>First time using Airbnb?</div>
+          <div>First time using B&B?</div>
           <div
             className="
               text-neutral-800
